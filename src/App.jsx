@@ -16,7 +16,7 @@ import GallerySection from './Components/Landing/GallerySection'
 import { Provider } from 'react-redux'
 import store from './Redux/store'
 import Privacy from './Components/Privacy';
-import Terms from './Components/terms';
+import Terms from './Components/Terms';
 
 function App() {
   return (

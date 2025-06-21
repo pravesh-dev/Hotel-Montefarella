@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: bellefair;
+    src: url('./assets/Fonts/Bellefair/Bellefair-Regular.ttf');
+}
+@font-face{
+    font-family: poppins;
+    src: url('./assets/Fonts/Mulish/static/Mulish-Regular.ttf');
+}
+@font-face{
+    font-family: mulish;
+    src: url('./assets/Fonts/Poppins/Poppins-Regular.ttf');
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

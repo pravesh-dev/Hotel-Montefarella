@@ -60,14 +60,14 @@ import spaImg9 from '../../assets/Landing_page_imgs/Gallery/spa/IMG_6988.jpg';
 
 // Importing Kitchen Images
 import kitchen_icon from "../../assets/Landing_page_imgs/Gallery/kitchen/kitchenIcon.svg"; 
-import kitchen_Img1 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0144.jpg';
-import kitchen_Img2 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0145.jpg';
-import kitchen_Img3 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0146.jpg';
-import kitchen_Img4 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0147.jpg';
-import kitchen_Img5 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0148.jpg';
-import kitchen_Img6 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0149.jpg';
-import kitchen_Img7 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0150.jpg';
-import kitchen_Img8 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_6732.jpg';
+import kitchen_Img1 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0144.jpg';
+import kitchen_Img2 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0145.jpg';
+import kitchen_Img3 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0146.jpg';
+import kitchen_Img4 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0147.jpg';
+import kitchen_Img5 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0148.jpg';
+import kitchen_Img6 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0149.jpg';
+import kitchen_Img7 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_0150.jpg';
+import kitchen_Img8 from '../../assets/Landing_page_imgs/Gallery/kitchen/IMG_6732.jpg';
 
 export default [
     {

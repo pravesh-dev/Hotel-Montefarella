@@ -59,7 +59,7 @@ import spaImg9 from '../../assets/Landing_page_imgs/Gallery/spa/IMG_6988.jpg';
 // import spaVideo4 from '../../assets/Landing_page_imgs/Gallery/spa/IMG_7011.MOV';
 
 // Importing Kitchen Images
-import kitchenIcon from '../../assets/Landing_page_imgs/Gallery/Kitchen/kitchenIcon.png'
+import kitchen_icon from "../../assets/Landing_page_imgs/Gallery/kitchen/kitchenIcon.svg"; 
 import kitchenImg1 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0144.jpg';
 import kitchenImg2 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0145.jpg';
 import kitchenImg3 from '../../assets/Landing_page_imgs/Gallery/Kitchen/IMG_0146.jpg';
@@ -140,7 +140,7 @@ export default [
     },
     {
       image: kitchenImg3,
-      icon: kitchenIcon,
+      icon: kitchen_icon,
       title: {
           english: "Stunning Kitchen",
           italy: "Cucina mozzafiato"
